@@ -7,4 +7,4 @@
 ## Lab 2 - Hostel Management System 
 ## Lab 3 - Stock Maintenance System (Inventory maintenance)
 ## Lab 4 - Coffee Vending System 
-## Lab 3 - Online Shopping System
+## Lab 5 - Online Shopping System
