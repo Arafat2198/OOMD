@@ -6,3 +6,5 @@
 ## Lab 1 - College information System 
 ## Lab 2 - Hostel Management System 
 ## Lab 3 - Stock Maintenance System (Inventory maintenance)
+## Lab 4 - Coffee Vending System 
+## Lab 3 - Online Shopping System
