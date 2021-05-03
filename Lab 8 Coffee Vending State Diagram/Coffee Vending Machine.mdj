@@ -8480,6 +8480,100 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAF5MYpOp/cNEOU="
 							}
+						},
+						{
+							"_type": "UMLTransitionView",
+							"_id": "AAAAAAF5MhpkPPczY2s=",
+							"_parent": {
+								"$ref": "AAAAAAF5MX4rnPPvVRo="
+							},
+							"model": {
+								"$ref": "AAAAAAF5MhpkPPcyJ64="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5MhpkPPc0qmk=",
+									"_parent": {
+										"$ref": "AAAAAAF5MhpkPPczY2s="
+									},
+									"model": {
+										"$ref": "AAAAAAF5MhpkPPcyJ64="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 837,
+									"top": 142,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5MhpkPPczY2s="
+									},
+									"edgePosition": 1
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5MhpkPfc1d+U=",
+									"_parent": {
+										"$ref": "AAAAAAF5MhpkPPczY2s="
+									},
+									"model": {
+										"$ref": "AAAAAAF5MhpkPPcyJ64="
+									},
+									"visible": null,
+									"font": "Arial;13;0",
+									"left": 840,
+									"top": 127,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 30,
+									"hostEdge": {
+										"$ref": "AAAAAAF5MhpkPPczY2s="
+									},
+									"edgePosition": 1
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5MhpkPfc2d/s=",
+									"_parent": {
+										"$ref": "AAAAAAF5MhpkPPczY2s="
+									},
+									"model": {
+										"$ref": "AAAAAAF5MhpkPPcyJ64="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 832,
+									"top": 171,
+									"height": 13,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5MhpkPPczY2s="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5MX/D7vRswOQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5MYKqBPVj7Vc="
+							},
+							"lineStyle": 1,
+							"points": "815:160;855:167",
+							"showVisibility": true,
+							"nameLabel": {
+								"$ref": "AAAAAAF5MhpkPPc0qmk="
+							},
+							"stereotypeLabel": {
+								"$ref": "AAAAAAF5MhpkPfc1d+U="
+							},
+							"propertyLabel": {
+								"$ref": "AAAAAAF5MhpkPfc2d/s="
+							}
 						}
 					]
 				}
@@ -8959,6 +9053,19 @@
 									"name": "Power Down"
 								}
 							]
+						},
+						{
+							"_type": "UMLTransition",
+							"_id": "AAAAAAF5MhpkPPcyJ64=",
+							"_parent": {
+								"$ref": "AAAAAAF5MX4rm/PujUo="
+							},
+							"source": {
+								"$ref": "AAAAAAF5MYKqBPViLMo="
+							},
+							"target": {
+								"$ref": "AAAAAAF5MX/D7vRrD/4="
+							}
 						}
 					]
 				}
