@@ -9,3 +9,4 @@
 ## Lab 4 - Coffee Vending System 
 ## Lab 5 - Online Shopping System
 ## Lab 6 - Railway Reservation System
+## Lab 7 - Hostel Management System State Diagram
